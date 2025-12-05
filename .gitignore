@@ -1,0 +1,37 @@
+# 创建 .gitignore 文件
+echo "# Visual Studio" > .gitignore
+echo ".vs/" >> .gitignore
+echo "*.user" >> .gitignore
+echo "*.suo" >> .gitignore
+echo "*.userosscache" >> .gitignore
+echo "*.sln.docstates" >> .gitignore
+echo "" >> .gitignore
+
+# C++ 项目常见的忽略规则
+echo "# Build directories" >> .gitignore
+echo "x64/" >> .gitignore
+echo "Debug/" >> .gitignore
+echo "Release/" >> .gitignore
+echo "bin/" >> .gitignore
+echo "obj/" >> .gitignore
+echo "" >> .gitignore
+
+echo "# Other" >> .gitignore
+echo "*.exe" >> .gitignore
+echo "*.ilk" >> .gitignore
+echo "*.pdb" >> .gitignore
+echo "*.obj" >> .gitignore
+.vs/CloudPhoneHelper/CopilotIndices/17.14.1368.60722/CodeChunks.db
+.vs/CloudPhoneHelper/CopilotIndices/17.14.1368.60722/CodeChunks.db-shm
+.vs/CloudPhoneHelper/CopilotIndices/17.14.1368.60722/CodeChunks.db-wal
+.vs/CloudPhoneHelper/CopilotIndices/17.14.1368.60722/SemanticSymbols.db
+.vs/CloudPhoneHelper/CopilotIndices/17.14.1368.60722/SemanticSymbols.db-shm
+.vs/CloudPhoneHelper/CopilotIndices/17.14.1368.60722/SemanticSymbols.db-wal
+.vs/CloudPhoneHelper/FileContentIndex/2efa15da-e788-4f27-a4fe-3cd0495f92c4.vsidx
+.vs/CloudPhoneHelper/v17/.suo
+.vs/CloudPhoneHelper/v17/Browse.VC.db
+.vs/CloudPhoneHelper/v17/Browse.VC.db-shm
+.vs/CloudPhoneHelper/v17/Browse.VC.db-wal
+.vs/CloudPhoneHelper/v17/Browse.VC.opendb
+.vs/CloudPhoneHelper/v17/DocumentLayout.json
+.vs/CloudPhoneHelper/v17/ipch/AutoPCH/1808c4eac398ed65/CLOUDPHONEHELPER.ipch
