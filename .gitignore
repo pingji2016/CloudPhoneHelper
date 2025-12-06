@@ -35,3 +35,5 @@ echo "*.obj" >> .gitignore
 .vs/CloudPhoneHelper/v17/Browse.VC.opendb
 .vs/CloudPhoneHelper/v17/DocumentLayout.json
 .vs/CloudPhoneHelper/v17/ipch/AutoPCH/1808c4eac398ed65/CLOUDPHONEHELPER.ipch
+.vs/CloudPhoneHelper/v17/DocumentLayout.backup.json
+.vs/CloudPhoneHelper/FileContentIndex/48ff35bc-c8cc-40c1-b8a7-68a643371ed1.vsidx

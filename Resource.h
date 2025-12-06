@@ -9,6 +9,8 @@
 #define IDD_ABOUTBOX			103
 #define IDM_ABOUT				104
 #define IDM_EXIT				105
+#define IDM_LIST_DEVICES            120
+#define IDM_PUSH_FILE               121
 #define IDI_CLOUDPHONEHELPER			107
 #define IDI_SMALL				108
 #define IDC_CLOUDPHONEHELPER			109
